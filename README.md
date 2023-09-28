@@ -11,7 +11,12 @@ TBA
 ## Datasets
 
 ### Data Collection
-We obtained data for this project through the use of web scraping and Natural Language Processing (NLP) techniques. We collected Reddit posts related to anorexia nervosa using the PRAW library and a custom Reddit scraper.
+We obtained data for this project through the use of web scraping and Natural Language Processing (NLP) techniques. We collected Reddit posts related to anorexia nervosa from two subreddits:
+
+1. [r/AnorexiaNervosa](https://www.reddit.com/r/AnorexiaNervosa/)
+2. [r/intermittentfasting](https://www.reddit.com/r/intermittentfasting/)
+
+We used the PRAW library and a custom Reddit scraper to collect the data.
 
 ## Data Dictionary
 
