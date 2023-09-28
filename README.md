@@ -8,6 +8,14 @@ TBA
 
 TBA
 
+## Background
+
+**Intermittent Fasting (IF):**
+Intermittent Fasting is a popular health trend characterized by controlled fasting and eating patterns. It is often adopted for weight management and overall wellness. Individuals practicing IF alternate between periods of fasting and eating, with various methods and schedules available.
+
+**Anorexia Nervosa (AN):**
+Anorexia Nervosa is a severe mental health disorder marked by extreme dietary restriction, an intense fear of gaining weight, and a distorted body image. It is a life-threatening condition that requires specialized treatment and support.
+
 ## Datasets
 
 ### Data Collection
